@@ -56,8 +56,8 @@ bibliografía(`\bibliographystyle{apacite}`).
 
 \begin{document}
 
-  "El muestreo es el proceso de seleccionar sistemáticamente elementos
-  representativos de una población." \cite{kendall2012}.
+  ``El muestreo es el proceso de seleccionar sistemáticamente elementos
+  representativos de una población.'' \cite{kendall2012}.
 
   \bibliographystyle{apacite}
   \bibliography{bibtex/main}

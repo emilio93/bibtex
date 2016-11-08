@@ -18,7 +18,7 @@ Sea que se tenga la siguiente estructura:
 El archivo `mi-archivo.tex` puede usar la lista de documentos de la siguiente
 manera:
 
-```
+```tex
 \documentclass{article}
 
 \usepackage{cite}
@@ -47,7 +47,7 @@ se utiliza el paquete [apacite](https://www.ctan.org/pkg/apacite)
 (`\usepackage{apacite}`), y se cambia el estilo de
 bibliografía(`\bibliographystyle{apacite}`).
 
-```
+```tex
 \documentclass{article}
 
 \usepackage{cite}
